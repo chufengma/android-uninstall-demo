@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UninstallDemo</string>
+    <string name="text_uninstall">卸载后弹出反馈页面</string>
+
+</resources>
